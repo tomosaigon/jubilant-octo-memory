@@ -1,0 +1,17 @@
+{
+	"@context": [
+		"https://www.w3.org/ns/activitystreams",
+		"https://w3id.org/security/v1"
+	],
+
+	"id": "https://tomosaigon.github.io/actor",
+	"type": "Person",
+	"preferredUsername": "tomosaigon",
+	"inbox": "https://tomosaigon.github.io/dev/null",
+
+	"publicKey": {
+		"id": "https://tomosaigon.github.io/actor#main-key",
+		"owner": "https://tomosaigon.github.io/actor",
+		"publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw4LKAYc+8JAetW9EZDK9\nJXGqH4PZJodo+/rCdZFLlVK3EOzdvgCKlFeIB2WSuFkjpVq3hjeL5DTdzQvOUTUd\nA1K6UXAhFDW8AYRkUdgqo64HpStSTlyhG612lwMFR9oF+G73+2UarJquq8yeWR7v\nUW1X1QkQYoPmiGQ23UkulMlH1b58vBpk3tTenjiIMjDuEUedMHvMTOxgobAXC05S\nZp8//DKf2Fmh/W+SSgmKDCuko0EnMUxI+X91ZThXceAmPxW1TawtmZ2/trbf1lZ3\nQeNQDl6mkRtnQqnnJkAcJdd+XcWTTHQnYk/s6nPC5QbMrNaAMtRhlwlC6zvN3QkY\nKwIDAQAB\n-----END PUBLIC KEY-----"
+	}
+}

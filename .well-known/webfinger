@@ -1,0 +1,11 @@
+{
+	"subject": "acct:tomosaigon@tomosaigon.github.io",
+
+	"links": [
+		{
+			"rel": "self",
+			"type": "application/activity+json",
+			"href": "https://tomosaigon.github.io/actor"
+		}
+	]
+}

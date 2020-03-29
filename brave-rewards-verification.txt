@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: tomosaigon.github.io
+Token: b710445a4117bb755d62a06a3d799f7c8245f6151fb1172961befdbd89c0279a

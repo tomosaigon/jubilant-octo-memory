@@ -1,0 +1,2 @@
+2020-07-09T18:03:07+07:00	Hello, this is Tomo in Saigon.
+2020-07-09T18:15:52+07:00	I saved we-are-twtxt and ran: while read L ; do echo $L ; twtxt follow $L ; done < we-are-twtxt
